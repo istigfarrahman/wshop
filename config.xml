@@ -23,8 +23,8 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
-    <icon src="footprint.ico" />
-    <icon gap:density="ldpi" gap:platform="android" src="footprint.ico" />
+    <icon src="footprint.png" />
+    <icon gap:density="ldpi" gap:platform="android" src="footprint.png" />
     
     <gap:splash gap:density="ldpi" gap:platform="android" src="splash2.jpg" />
     
